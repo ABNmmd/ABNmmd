@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abnmmd&label=Profile%20views&color=0e75b6&style=flat" alt="abnmmd" /> </p>
 
+<<<<<<< HEAD
 - 🔭 I’m currently working on [AcademiaHub Front-end](https://github.com/ABNmmd/AcademiaHub-FrontEnd)
 
 - 🌱 I’m currently learning **React, node.js, mongodb**
