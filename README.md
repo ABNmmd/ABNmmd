@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [AcademiaHub Front-end](https://github.com/ABNmmd/AcademiaHub-FrontEnd)
 
-- 🌱 I’m currently learning **React, node.js, mongodb**
+- 🌱 I’m currently learning **Laravel, PHP, TailwindCss, Java, C++, SQL**
 
 - 👯 I’m looking to collaborate on **future projects**
 
