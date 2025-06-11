@@ -15,7 +15,7 @@
 
 <p align="left">
 <a href="https://twitter.com/abnmmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abnmmd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed abnoune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abnoune" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-abnoune-863130294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abnoune" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_abnou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_abnou" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abnmmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abnmmd" height="30" width="40" /></a>
 </p>
